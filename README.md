@@ -8,10 +8,10 @@ Python 3.x
 OpenCV
 Midas Library
 Other dependencies (e.g., numpy)
-##Step 1: Camera and Object Dimensioning
+## Step 1: Camera and Object Dimensioning
 
 In this step, camera and screen angles are utilized to estimate the real dimensions of objects using a monocular camera. This step provides critical information for calculating the actual size of the object.
 
-##Step 2: Monocular Camera Deep Map Estimation
+## Step 2: Monocular Camera Deep Map Estimation
 
 In this step, we utilize the Midas library to generate depth maps with a monocular camera. Midas is a deep learning model trained for depth estimation
